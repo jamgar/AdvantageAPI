@@ -1,0 +1,15 @@
+/Users/james/code/csharp/Advantage.API/bin/Debug/netcoreapp2.1/Advantage.API.deps.json
+/Users/james/code/csharp/Advantage.API/bin/Debug/netcoreapp2.1/Advantage.API.runtimeconfig.json
+/Users/james/code/csharp/Advantage.API/bin/Debug/netcoreapp2.1/Advantage.API.runtimeconfig.dev.json
+/Users/james/code/csharp/Advantage.API/bin/Debug/netcoreapp2.1/Advantage.API.dll
+/Users/james/code/csharp/Advantage.API/bin/Debug/netcoreapp2.1/Advantage.API.pdb
+/Users/james/code/csharp/Advantage.API/obj/Debug/netcoreapp2.1/Advantage.API.csprojAssemblyReference.cache
+/Users/james/code/csharp/Advantage.API/obj/Debug/netcoreapp2.1/Advantage.API.csproj.CoreCompileInputs.cache
+/Users/james/code/csharp/Advantage.API/obj/Debug/netcoreapp2.1/Advantage.API.RazorAssemblyInfo.cache
+/Users/james/code/csharp/Advantage.API/obj/Debug/netcoreapp2.1/Advantage.API.RazorAssemblyInfo.cs
+/Users/james/code/csharp/Advantage.API/obj/Debug/netcoreapp2.1/UserSecretsAssemblyInfo.cs
+/Users/james/code/csharp/Advantage.API/obj/Debug/netcoreapp2.1/Advantage.API.AssemblyInfoInputs.cache
+/Users/james/code/csharp/Advantage.API/obj/Debug/netcoreapp2.1/Advantage.API.AssemblyInfo.cs
+/Users/james/code/csharp/Advantage.API/obj/Debug/netcoreapp2.1/Advantage.API.RazorTargetAssemblyInfo.cache
+/Users/james/code/csharp/Advantage.API/obj/Debug/netcoreapp2.1/Advantage.API.dll
+/Users/james/code/csharp/Advantage.API/obj/Debug/netcoreapp2.1/Advantage.API.pdb
